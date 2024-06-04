@@ -12,9 +12,9 @@ URL:        https://github.com/MarkOlsonMN/sql-challenge
 ## Code Source/Location within this Repo  
 ReadMe : &nbsp;sql-challenge/README.md  
 Data Modeling ...  
-&nbsp;&nbsp;&nbsp;&nbsp;Data Model (diagram) :&nbsp;&nbsp;sql-challenge/EmployeeSQL/relationship_diagram_2a.png  
+&nbsp;&nbsp;&nbsp;&nbsp;Data Model (diagram) :&nbsp;&nbsp;sql-challenge/EmployeeSQL/entity_relationship_diagram.png  
 Data Engineering and Analysis ...  
-&nbsp;&nbsp;&nbsp;&nbsp;employees (sql script) :&nbsp;&nbsp;sql-challenge/EmployeeSQL/employee.sql  
+&nbsp;&nbsp;&nbsp;&nbsp;Employees (sql database script) :&nbsp;&nbsp;sql-challenge/EmployeeSQL/employee.sql  
 Data ...  
 &nbsp;&nbsp;&nbsp;&nbsp;employees (data) :&nbsp;&nbsp;sql-challenge/EmployeeSQL/data/employees.csv  
 &nbsp;&nbsp;&nbsp;&nbsp;departments (data) :&nbsp;&nbsp;sql-challenge/EmployeeSQL/data/departments.csv  
